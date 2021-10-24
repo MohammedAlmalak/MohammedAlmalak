@@ -1,7 +1,8 @@
-### Hi there 👋
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mobile+Developer.;I'm+a+Software+engineer." /></a>
 </p>
+
+### Hi there 👋
 I'am Mohammed Al-Malak.
 <br />
 I have a bachelor's degree in Software Engineering.
@@ -13,6 +14,7 @@ and problem-solving with a good experience in
 Flutter development.
 <br />
  
+- 🔭 I’m currently working on Flutter Projects
 - 👯 I'm Looking for opportunities as asoftware developer with an expert team of developers who help advance my career progression tosenior positions in the future.
 - 🌱 I’m currently learning everything 🤣
 - ⚡  I'm happy to collaborate on any App mobile  development by Flutter.
@@ -31,13 +33,14 @@ Flutter development.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAlmalak&layout=compact" />
  
  ### 📫 How to reach me:
  <a href="mailto: abc@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-%231ED760.svg?&style=flat-square&logo=Gmail&logoColor=white&color=blue" alt="Email"></a>
  <a href="https://www.linkedin.com/in/mohammed-almalak-582444209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/m_almlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://web.facebook.com/profile.php?id=100002890435753" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAlmalak&layout=compact" />
 
 
  
