@@ -12,6 +12,7 @@ Flutter development.
  
 - 👯 I'm Looking for opportunities as asoftware developer with an expert team of developers who help advance my career progression tosenior positions in the future.
 - 🌱 I’m currently learning everything 🤣
+- ⚡  I'm happy to collaborate on any App mobile  development by Flutter.
  
 <!--
 ### Connect with me:
