@@ -7,8 +7,8 @@ Junior Software Developer,
 in Computer Science passionate about
 Mobile Programming
 and problem-solving with a good experience in
-FLUTTER
-development.
+Flutter development.
+
  
 - 👯 I'm Looking for opportunities as asoftware developer with an expert team of developers who help advance my career progression tosenior positions in the future.
 - 🌱 I’m currently learning everything 🤣
