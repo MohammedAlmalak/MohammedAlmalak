@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'am Mohammed Al-Malak.
 <br />
-I have a bachelor's degree in software engineering.
+I have a bachelor's degree in Software Engineering.
 <br />
 Junior Software Developer,
 in Computer Science passionate about
