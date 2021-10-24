@@ -1,6 +1,26 @@
 ### Hi there 👋
-
+I'am Mohammed Al-Malak.
+<br />
+I have a bachelor's degree in software engineering.
+<br />
+Junior Software Developer,
+in Computer Science passionate about
+Mobile Programming
+and problem-solving with a good experience in
+FLUTTER
+development.
+ 
+- 👯 I'm Looking for opportunities as asoftware developer with an expert team of developers who help advance my career progression tosenior positions in the future.
+- 🌱 I’m currently learning everything 🤣
+ 
 <!--
+### Connect with me:
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 **MohammedAlmalak/MohammedAlmalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
