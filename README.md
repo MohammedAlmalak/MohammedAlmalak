@@ -14,6 +14,16 @@ Flutter development.
 - 🌱 I’m currently learning everything 🤣
 - ⚡  I'm happy to collaborate on any App mobile  development by Flutter.
  
+ ### Languages and Tools
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dart.svg" alt="dart" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="flutter" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="php" height="30" width="40" />
+ 
+</p>
+
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAlmalak&layout=compact" />
 <!--
 ### Connect with me:
