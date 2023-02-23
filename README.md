@@ -15,10 +15,10 @@ Flutter development.
 <br />
  
 - 🔭 I’m currently working on Flutter Projects
-- 👯 I'm Looking for opportunities as asoftware developer with an expert team of developers who help advance my career progression tosenior positions in the future.
+- 👯 I'm Looking for opportunities as a Software Developer with an expert team of developers who help advance my career progression tosenior positions in the future.
 - 🌱 I’m currently learning everything 🤣
 - ⚡  I'm happy to collaborate on any App mobile  development by Flutter.
-- 📝[Resume](https://drive.google.com/file/d/1T21FlOeayJEyRmSm-ZiAg2iwtU5TqWTy/view?usp=sharing)
+<!-- - 📝[Resume](https://drive.google.com/file/d/1T21FlOeayJEyRmSm-ZiAg2iwtU5TqWTy/view?usp=sharing)-->
 
 **Languages and Tools:**  
 
