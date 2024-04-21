@@ -7,7 +7,7 @@ I'am Mohammed Al-Malak.
 <br />
 I have a bachelor's degree in Software Engineering.
 <br />
-Junior Software Developer,
+Senior Software Developer,
 in Computer Science passionate about
 Mobile Programming
 and problem-solving with a good experience in
