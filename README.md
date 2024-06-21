@@ -8,7 +8,7 @@ I'am Mohammed Al-Malak.
 I'am Software Engineering.
 <br />
 Senior Mobile Applications Developer,
-in Computer Science passionate about
+Interested  in Computer Science passionate about
 Mobile Programming
 and problem-solving with a good experience in
 Flutter development.
